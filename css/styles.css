@@ -1,10 +1,22 @@
 /* Your Awesome Website */
+h1 {
+	color: #fff;
+}
 
 .parfait1 {
-	background: lightblue;
+	background: #007095;
+	padding: 15px;
 }
 
 .parfait2 {
-	margin-top: 30px;
+	padding: 35px 0;
 	background: #555;
+}
+
+label {
+	color: #fff;
+}
+
+button {
+	background-color: #333;
 }
